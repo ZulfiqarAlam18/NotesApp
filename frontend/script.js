@@ -1,4 +1,7 @@
-const API_URL = "http://localhost:3000/notes";
+//const API_URL = "http://localhost:3000/notes";
+
+const API_URL = "http://13.51.235.25:3000/notes";
+
 
 // Fetch all notes on load
 async function loadNotes() {
